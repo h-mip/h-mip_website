@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : For questions about the project, please contact John Palmer at the Socio-Demographics Research Group, Department of Political and Social Sciences, Pompeu Fabra University.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Ramon Trias Fargas, 25-27, 08005 Barcelona, Spain"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +34-93-542-2346"
+            
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: human.mosquito@tutanota.com"
+
+    - icon : ti-world
+      info : "Website: https://www.upf.edu/web/demosoc"
+
+
+  # Contact form
+  contact_form:
+    enable : false
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

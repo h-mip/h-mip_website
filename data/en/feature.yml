@@ -1,0 +1,28 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/mosquito.png
+  image_webp : images/about/mosquito.webp
+  title : Key Insights
+  content : "The projects is built on several key insights: (1) mosquitoes are an excellent source of information about the people they bite; (2) people are an excellent source of information about the mosquitoes that bite them; (3) mobility phone positioning can provide novel insights about human-mosquito biting networks; and (4) adding a social science perspective to disease ecology is crucial for tackling the problem of mosquito-borne disease."
+  feature_item : 
+      # feature item loop
+    - title : Mosquitoes can tell us about people
+      icon : ti-ruler # themify icon pack : https://themify.me/themify-icons
+      content : Because they carry our blood, we can see how many people a mosquito has bitten. This lets us improve disease models.
+      
+      # feature item loop
+    - title : People can tell us about mosquitoes
+      icon : ti-hand-open # themify icon pack : https://themify.me/themify-icons
+      content : People like to complain about mosquitos. We listen and harness their energy through citizen science.
+
+      # feature item loop
+    - title : Mobile phones can tell us about biting networks
+      icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      content : With a privacy-focused app, we let people share information about how they move among mosquito populations. 
+      
+            # feature item loop
+    - title : Social science strengthens ecology
+      icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
+      content : Our interdisciplinary approach illuminates the socio-ecological context of mosquito-borne disease.
+      

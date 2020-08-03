@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Human-Mosquito Interaction Project"
+  content : "Host-vector networks, mobility, and the socio-ecological context of mosquito-borne disease. A project funded by the European Research Council and implemented by Pompeu Fabra University and the Blanes Center for Advanced Studies."
+  button:
+    enable : true
+    label : "Explore"
+    link : "#about"
