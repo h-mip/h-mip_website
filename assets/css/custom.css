@@ -78,4 +78,6 @@ code {
   white-space : pre-wrap !important;
 }
 
-
+.text-white {
+  color: #fff !important;
+}

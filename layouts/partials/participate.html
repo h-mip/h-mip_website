@@ -12,6 +12,8 @@
 					<h2>{{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
 							{{ with .title }} {{ index (split . " ") 1 | safeHTML }} {{ end }} </span></h2>
 							<p>{{ .content | markdownify }}</p>
+							<a href="{{ .main_button_url }}" class="btn btn-transparent page-scroll">{{ .main_button_text }}</a>
+
 					<div class="border-meghna"></div>
 				</div>
 			</div>

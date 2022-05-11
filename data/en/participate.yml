@@ -3,34 +3,41 @@ participate:
   enable : true
   title : Participate
   content: "You can participate in several ways some of which are in the process of being rolled out over the coming weeks and months. Choose one or more of these options."
+  main_button_url: participate
+  main_button_text: "Learn More"
   service_item :
     # service item loop
     - name : "[Mosquito Alert](http://www.mosquitoalert.com/)"
       icon : "fas fa-people-arrows"
       url: http://www.mosquitoalert.com
-      content : "Start participating by downloading the Mosquito Alert app. Report mosquitoes and their breeding sites when you find them. Mark where you have been bitten. Learn about mosquitoes and more."
+      content : "Report mosquitoes through the Mosquito Alert app."
       
     # service item loop
-    - name : Talk to us
+    - name : "[Talk to us](participate#talk)"
       icon : "fas fa-comments"
-      content : "Talk to us about your experiences with mosquitoes. We will soon be recruiting volunteers for semi-structured interviews, which could be in person or by phone or video conference. Coming soon."
+      url: participate#talk
+      content : "Talk to us about your experiences with mosquitoes."
       
     # service item loop
-    - name : "Show us"
+    - name : "[Show us](participate#show)"
       icon : "fas fa-walking"
-      content : "Let us accompany you during your usual routines to observe mosquito interactions. We will be recruiting volunteers once the Covid-19 situation allows for this to be done safely. Coming soon."
+      url: participate#show
+      content : "Let us accompany you during your usual routines."
       
     # service item loop
-    - name : Share mosquitoes
+    - name : "[Share mosquitoes](participate#share_mosquitoes)"
       icon : "fas fa-binoculars" # themify icon pack : https://themify.me/themify-icons
-      content : "Let us hunt mosquitoes in or around your home, garden or other places where you spend time. We will be recruiting volunteers once the Covid-19 situation allows for this to be done safely. Coming soon."
+      url: participate#share_mosquitoes
+      content : "Let us hunt mosquitoes in or around the places where you spend time."
       
     # service item loop
-    - name : Share tracks
+    - name : "[Share tracks](participate#share_tracks)"
       icon : "fas fa-mobile-alt"
-      content : "Share your mobility patterns using a privacy-focused app. We will soon be releasing a new version of Space Mapper, which uses end-to-end encryption and lets you control what you share."
+      url: participate#share_tracks
+      content : "Share your mobility patterns using a privacy-focused app."
       
     # service item loop
-    - name : Share DNA
+    - name : "[Share DNA](participate#share_dna)"
       icon : "fas fa-dna"
-      content : "Spit into a tube so that we can analyze your DNA and see which mosquitoes have bitten you. We will be recruiting volunteers once the Covid-19 situation allows for this to be done safely. Coming soon."
+      url: participate#share_dna
+      content : "Spit into a tube to which mosquitoes have bitten you."

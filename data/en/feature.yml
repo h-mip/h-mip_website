@@ -4,7 +4,7 @@ feature:
   image : images/about/mosquito.png
   image_webp : images/about/mosquito.webp
   title : Key Insights
-  content : "The projects is built on several key insights: (1) mosquitoes are an excellent source of information about the people they bite; (2) people are an excellent source of information about the mosquitoes that bite them; (3) mobility phone positioning can provide novel insights about human-mosquito biting networks; and (4) adding a social science perspective to disease ecology is crucial for tackling the problem of mosquito-borne disease."
+  content : "The project is built on several key insights: (1) mosquitoes are an excellent source of information about the people they bite; (2) people are an excellent source of information about the mosquitoes that bite them; (3) mobility phone positioning can provide novel insights about human-mosquito biting networks; and (4) adding a social science perspective to disease ecology is crucial for tackling the problem of mosquito-borne disease."
   feature_item : 
       # feature item loop
     - title : Mosquitoes can tell us about people
