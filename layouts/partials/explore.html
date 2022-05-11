@@ -1,0 +1,72 @@
+{{ $data := index site.Data site.Language.Lang }}
+{{ if $data.explore.explore.enable }}
+{{ with $data.explore.explore }}
+{{"<!-- Start Explore Section -->" | safeHTML}}
+<section class="bg-one about section" id="explore">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-12">
+				{{"<!-- section title -->" | safeHTML}}
+				<div class="title text-center wow fadeIn" data-wow-duration="1500ms">
+					<h2> {{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
+							{{ with .title }} {{ index (split . " ") 1 | safeHTML }} {{ end }} </span></h2>
+							<p>{{ .content | markdownify }}</p>
+					<div class="border-meghna"></div>
+				</div>
+			</div>
+			{{"<!-- /section title -->" | safeHTML}}
+
+		<div class="row justify-content-center">
+			<div class="col-lg-6 d-flex justify-content-center text-center wow fadeInUp" data-wow-duration="500ms">
+				<div class="block">
+					<div class="content text-center">
+					 <video width="100%" height="100%" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+	    				<source src="{{ .video1 | absURL }}" type="video/mp4">
+					  </video>
+
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 d-flex justify-content-center text-center wow fadeInUp" data-wow-duration="500ms">
+				<div class="block">
+					<div class="content text-center">
+					 <video width="100%" height="100%" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+	    				<source src="{{ .video2 | absURL }}" type="video/mp4">
+					  </video>
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+				<div class="row justify-content-center">
+			<div class="col-lg-6 d-flex justify-content-center text-center wow fadeInUp" data-wow-duration="500ms">
+				<div class="block">
+					<div class="content text-center">
+					 <video width="100%" height="100%" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+	    				<source src="{{ .video3 | absURL }}" type="video/mp4">
+					  </video>
+
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 d-flex justify-content-center text-center wow fadeInUp" data-wow-duration="500ms">
+				<div class="block">
+					<div class="content text-center">
+					 <video width="100%" height="100%" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+	    				<source src="{{ .video4 | absURL }}" type="video/mp4">
+					  </video>
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+		{{ partial "funding_disclaimer.html" . }}
+
+	</div>
+</section>
+{{"<!-- /explore -->" | safeHTML}}
+{{ end }}
+{{ end }}

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
 				"r_a",
 				"r_array2020"
 			],
@@ -63,6 +67,41 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "data/en/team.yml",
+			"settings":
+			{
+				"buffer_size": 5310,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "layouts/partials/team.html",
+			"settings":
+			{
+				"buffer_size": 2007,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "layouts/index.html",
+			"settings":
+			{
+				"buffer_size": 604,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.toml",
+			"settings":
+			{
+				"buffer_size": 4439,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -96,10 +135,82 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/palmer/projects/h-mip"
+		"/Users/palmer/projects/h-mip",
+		"/Users/palmer/projects/h-mip/layouts",
+		"/Users/palmer/projects/h-mip/layouts/partials"
 	],
 	"file_history":
 	[
+		"/Users/palmer/projects/h-mip/layouts/partials/team.html",
+		"/Users/palmer/projects/h-mip/layouts/_default/thanks.html",
+		"/Users/palmer/projects/h-mip/layouts/partials/custom-share.html",
+		"/Users/palmer/projects/h-mip/content/english/thanks_survey_2020_08.md",
+		"/Users/palmer/Documents/jpsignature.txt",
+		"/Users/palmer/projects/h-mip/themes/meghna-hugo/.gitpod.yml",
+		"/Users/palmer/projects/h-mip/layouts/partials/footer.html",
+		"/Users/palmer/projects/h-mip/assets/css/custom.css",
+		"/Users/palmer/projects/h-mip/config.toml",
+		"/Users/palmer/projects/h-mip/themes/meghna-hugo/layouts/_default/baseof.html",
+		"/Users/palmer/projects/h-mip/themes/meghna-hugo/layouts/_default/single.html",
+		"/Users/palmer/projects/h-mip/data/en/feature.yml",
+		"/Users/palmer/projects/h-mip/layouts/thanks_survey_2020_08.html",
+		"/Users/palmer/projects/h-mip/layouts/_default/thanks_survey_2020_08.html",
+		"/Users/palmer/projects/h-mip/static/images/mosquito_alert/Mosquito-Alert_mobil3_EN.jpg",
+		"/Users/palmer/projects/h-mip/content/french/blog/simple-blog-post-1.md",
+		"/Users/palmer/projects/h-mip/content/french/blog/simple-blog-post-2.md",
+		"/Users/palmer/projects/h-mip/content/french/blog/simple-blog-post-3.md",
+		"/Users/palmer/projects/h-mip/content/french/blog/simple-blog-post-5.md",
+		"/Users/palmer/projects/h-mip/layouts/index.html",
+		"/Users/palmer/projects/h-mip/content/french/blog/simple-blog-post-7.md",
+		"/Users/palmer/projects/h-mip/content/french/blog/simple-blog-post-8.md",
+		"/Users/palmer/projects/h-mip/themes/meghna-hugo/layouts/partials/blog.html",
+		"/Users/palmer/projects/h-mip/themes/meghna-hugo/layouts/_default/article.html",
+		"/Users/palmer/projects/h-mip/themes/meghna-hugo/archetypes/default.md",
+		"/Users/palmer/projects/h-mip/themes/meghna-hugo/layouts/partials/post-share.html",
+		"/Users/palmer/projects/h-mip/content/french/blog/installation.md",
+		"/Users/palmer/projects/h-mip/public/thanks_survey_2020_08/index.html",
+		"/Users/palmer/projects/h-mip/content/english/thanks_survey_2020_08.html",
+		"/Users/palmer/projects/h-mip/data/en/team.yml",
+		"/Users/palmer/projects/h-mip/assets/css/style.css",
+		"/Users/palmer/projects/h-mip/data/en/participate.yml",
+		"/Users/palmer/projects/h-mip/layouts/partials/participate.html",
+		"/Users/palmer/projects/h-mip/layouts/partials/head.html",
+		"/Users/palmer/projects/h-mip/layouts/ma_survey_thanks.html",
+		"/Users/palmer/projects/h-mip/archetypes/default.md",
+		"/Users/palmer/projects/h-mip/layouts/partials/about.html",
+		"/Users/palmer/projects/h-mip/themes/meghna-hugo/assets/css/style.css",
+		"/Users/palmer/projects/h-mip/data/en/cta.yml",
+		"/Users/palmer/projects/h-mip/layouts/partials/cta.html",
+		"/Users/palmer/projects/h-mip/layouts/partials/explore.html",
+		"/Users/palmer/projects/h-mip/data/en/cta3.yml",
+		"/Users/palmer/projects/h-mip/data/en/cta2.yml",
+		"/Users/palmer/projects/h-mip/layouts/partials/cta3.html",
+		"/Users/palmer/projects/h-mip/layouts/partials/cta2.html",
+		"/Users/palmer/projects/h-mip/themes/meghna-hugo/layouts/partials/team.html",
+		"/Users/palmer/projects/h-mip/themes/meghna-hugo/layouts/partials/banner.html",
+		"/Users/palmer/projects/h-mip/data/en/about.yml",
+		"/Users/palmer/projects/h-mip/layouts/partials/feature.html",
+		"/Users/palmer/projects/h-mip/themes/meghna-hugo/layouts/partials/footer.html",
+		"/Users/palmer/projects/h-mip/layouts/partials/funding_disclaimer.html",
+		"/Users/palmer/projects/h-mip/data/en/contact.yml",
+		"/Users/palmer/projects/h-mip/data/en/explore.yml",
+		"/Users/palmer/projects/h-mip/layouts/partials/banner.html",
+		"/Users/palmer/projects/h-mip/i18n/en.yaml",
+		"/Users/palmer/projects/h-mip/themes/meghna-hugo/layouts/partials/navigation.html",
+		"/Users/palmer/projects/h-mip/data/en/portfolio.yml",
+		"/Users/palmer/projects/h-mip/data/en/service.yml",
+		"/Users/palmer/projects/h-mip/themes/meghna-hugo/layouts/partials/head.html",
+		"/Users/palmer/projects/h-mip/.gitignore",
+		"/Users/palmer/projects/h-mip/themes/meghna-hugo/layouts/index.html",
+		"/Users/palmer/projects/h-mip/content/english/blog/installation.md",
+		"/Users/palmer/projects/h-mip/data/en/funfacts.yml",
+		"/Users/palmer/projects/h-mip/data/en/pricing.yml",
+		"/Users/palmer/projects/h-mip/data/en/banner.yml",
+		"/Users/palmer/projects/h-mip/data/en/testimonial.yml",
+		"/Users/palmer/projects/h-mip/data/en/skill.yml",
+		"/Users/palmer/projects/h-mip/themes/meghna/.gitignore",
+		"/Users/palmer/projects/h-mip/themes/meghna/README.md",
+		"/Users/palmer/projects/h-mip/themes/meghna/theme.toml",
 		"/Users/palmer/projects/h-mip.com/config.toml",
 		"/Users/palmer/projects/h-mip.com/layouts/index.html",
 		"/Users/palmer/projects/h-mip.com/themes/hugo-theme-air/layouts/index.html",
@@ -157,87 +268,18 @@
 		"/Users/palmer/research/gTiger/PAA2016/analysis/cat02_ovi_models_stan.r",
 		"/Users/palmer/research/gTiger/PAA2016/analysis/cat03b_ovi_dynamic_sample_predictions_stan.r",
 		"/Users/palmer/research/gTiger/PAA2016/analysis/cat07b_ovi_tigatrapp_dynamic_predictions_2_tigacell_enviro.r",
-		"/Users/palmer/research/gTiger/Article_girona_spreading/analysis/cat03_ovi_sample_predictions_stan.r",
-		"/Users/palmer/research/gTiger/analysis_current/stan_code/logit_RI_1L.stan",
-		"/Users/palmer/research/gTiger/Article_girona_spreading/analysis/cat06_tigatrapp_model_analysis.r",
-		"/Users/palmer/research/gTiger/PAA2016/analysis/cat07c_ovi_tigatrapp_dynamic_predictions_3_mapping.r",
-		"/Users/palmer/research/gTiger/PAA2016/analysis/cat_tiga_ovi_data_prep_7_final_stitching.r",
-		"/Users/palmer/research/gTiger/PAA2016/analysis/cat_ovi_tigatrapp_sample_predictions_stan.r",
-		"/Users/palmer/research/gTiger/PAA2016/analysis/cat07a_ovi_tigatrapp_dynamic_predictions_1_tigacells.r",
-		"/Users/palmer/research/gTiger/automated_models/open_code/commands_for_scp_testing.txt",
-		"/Users/palmer/research/gTiger/automated_models/open_code/A1.0_reporting_propensity_data_prep.r",
-		"/Users/palmer/research/gTiger/data/tigatrapp/report_fetch.py",
-		"/Users/palmer/research/gTiger/automated_models/open_code/A1.0_reporting_propensity_data_prep.out",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_part2_predictions_sampling_cells.sh",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_part3_predictions_munis.sh",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_part3_predictions_munis.r",
-		"/Users/palmer/research/ipv/notes_JR_2019_10_01.txt",
-		"/Volumes/GoogleDrive/My Drive/upf_courses/TSA1/2019/Labs/Lab1/Lab1.do",
-		"/Volumes/GoogleDrive/My Drive/upf_courses/TSA1/2019/Labs/Lab1/data_lab_1.txt",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_part2_predictions_sampling_cells.r",
-		"/Users/palmer/research/gTiger/Article_citsci/open_code/A1.0_spain_sampling_cell_grid.r",
-		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A1.0_dataprep1_main_data.r",
-		"/Users/palmer/research/gTiger/Article_sampling_effort/open_code/a_0002_bg_ma_comparison_bcn.R",
-		"/Users/palmer/research/gTiger/PAA2016/analysis/cat_ovi_models_stan.sh",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_yearly_muni_patch.r",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_yearly_muni_patch.sh",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_2014.R",
-		"/Users/palmer/research/gTiger/automated_models/open_code/run_all.sh",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_debugging.r",
-		"/Users/palmer/research/gTiger/PAA2016/analysis/dynamic_tigaovi_municipality_predictions.RData",
-		"/Users/palmer/research/gTiger/PAA2016/analysis/cat03_ovi_sample_predictions_stan.r",
-		"/Users/palmer/research/gTiger/Article_girona_spreading/Notes/notes_2019_09_03.txt",
-		"/Users/palmer/research/gTiger/Article_girona_spreading/Notes/notes_2018_05_01.txt",
-		"/Volumes/GoogleDrive/My Drive/ERC2018/meeting_JN_2019_09_05.txt",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_2015.r",
-		"/Users/palmer/research/gTiger/PAA2016/analysis/cat01_ovi_data_prep.r",
-		"/Users/palmer/research/gTiger/Article_sampling_effort/open_code/a_0001_sampling_effort_distribution_small_cells.R",
-		"/Users/palmer/research/gTiger/Article_sampling_effort/open_code/a_0001_sampling_effort_distribution.R",
-		"/Users/palmer/projects/SpaceMapper/README.md",
-		"/Users/palmer/research/gTiger/analysis_current/writeup/TigerAnalysis.pdf",
-		"/Users/palmer/research/gTiger/tiger_risk_estimation/scripts/t001.0_prediction_grid_creation.r",
-		"/Users/palmer/research/gTiger/Article_citsci/open_code/figures_maps_static.r",
-		"/Users/palmer/research/gTiger/.gitignore",
-		"/Users/palmer/research/gTiger/gbif/data/0050931-181108115102211.csv",
-		"/Users/palmer/research/gTiger/Article_citsci/open_code/run_all.sh",
-		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.2_mosquito_alert_model_predictions_munis.r",
-		"/Users/palmer/research/gTiger/automated_models/open_code/A5.1b_municipality_scale_up_patch.sh",
-		"/Users/palmer/research/gTiger/automated_models/open_code/A5.1b_municipality_scale_up_patch.R",
-		"/Users/palmer/research/gTiger/automated_models/open_code/A5.1b_municipality_scale_up_patch.out",
-		"/Users/palmer/research/gTiger/picat/meeting_notes_2018_12_19.txt",
-		"/Users/palmer/research/gTiger/automated_models/open_code/A5.1a_mosquito_alert_model_predictions_munis.R",
-		"/Users/palmer/research/gTiger/automated_models/open_code/A5.1a_mosquito_alert_model_predictions_munis.out",
-		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.1_mosquito_alert_model_predictions.r",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_2017.out",
-		"/Users/palmer/research/gTiger/analysis_current/APS_tigatrapp_comparison/aps_tigatrapp_comparison_charts.r",
-		"/Users/palmer/research/gTiger/analysis_current/APS_tigatrapp_comparison/aps_tigatrapp_comparison_matrix.r",
-		"/Users/palmer/research/gTiger/analysis_current/APS_tigatrapp_comparison/APS_tigatrapp_comparison_size_distance.html",
-		"/Volumes/GoogleDrive/My Drive/UB_2018_12_11/UB_2018_12_11_abstract.txt",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_2017.sh",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_2016.sh",
-		"/Users/palmer/research/gTiger/Article_citsci/open_data_prep/ovitraps.r",
-		"/Users/palmer/Dropbox/ERC2018/marc_v_pricing_estimates.txt",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_2016.out",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_2015.out",
-		"/Users/palmer/research/gTiger/automated_models/open_code/automated_script_2015.sh",
-		"/Users/palmer/research/gTiger/automated_models/data/tigatrapp_validated_reports.csv",
-		"/Users/palmer/research/gTiger/automated_models/open_data/untracked/MASCP_monthly/2018/02/mascp_monthly.csv",
-		"/Users/palmer/research/gTiger/automated_models/open_data/untracked/MASCP_monthly/2018/01/mascp_monthly.csv",
-		"/Users/palmer/Dropbox/mag_calculations/mag_calc.sublime-project",
-		"/Users/palmer/research/gTiger/automated_models/open_code/A5.1_mosquito_alert_model_predictions.r",
-		"/Users/palmer/research/gTiger/automated_models/open_code/A5.0_mosquito_alert_model.r",
-		"/Users/palmer/research/gTiger/automated_models/open_code/A2_reporting_propensity_model.r",
-		"/Users/palmer/research/gTiger/automated_models/open_code/A3_reporting_propensity_predictions.r"
+		"/Users/palmer/research/gTiger/Article_girona_spreading/analysis/cat03_ovi_sample_predictions_stan.r"
 	],
 	"find":
 	{
-		"height": 49.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
 		"height": 131.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -245,6 +287,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".Title",
+			"content",
+			"h2",
+			"@media",
+			"orcid",
+			"hero-area"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -262,8 +310,161 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "data/en/team.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2725,
+								2725
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 146,
+								"count": 345,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3651.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "layouts/partials/team.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								829,
+								829
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 38,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "layouts/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 20,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 680.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "config.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 286,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],

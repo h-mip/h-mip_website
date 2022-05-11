@@ -46,20 +46,26 @@ name = "about"
 URL = "about"
 weight = 1
 
-# [[menu.main]]
-# name = "services"
-# URL = "services"
-# weight = 2
+[[menu.main]]
+name = "participate"
+URL = "participate"
+weight = 2
+
+[[menu.main]]
+name = "explore"
+URL = "explore"
+weight = 3
+
 
 # [[menu.main]]
 # name = "portfolio"
 # URL = "portfolio"
 # weight = 3
 
-# [[menu.main]]
-# name = "team"
-# URL = "team"
-# weight = 4
+[[menu.main]]
+name = "team"
+URL = "team"
+weight = 4
 
 # [[menu.main]]
 # name = "pricing"
@@ -133,7 +139,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 John R.B. Palmer all right reserved. Built with [Hugo](https://gohugo.io/) using the [Meghna Hugo Theme](https://themes.gohugo.io/meghna-hugo/) by [Themefisher](https://themefisher.com/)."
+copyright = "This website is built and maintained by [John Palmer](http://johnrbpalmer.com) using [Hugo](https://gohugo.io/) and the [Meghna Hugo Theme](https://themes.gohugo.io/meghna-hugo/) by [Themefisher](https://themefisher.com/). The Human-Mosquito Interaction Project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 853271). The content of this website represents the views of the author only and is his sole responsibility. The European Commission does not accept any responsibility for the use that may be made of the information it contains."
 
 ################################ France Language ########################
 [Languages.fr]

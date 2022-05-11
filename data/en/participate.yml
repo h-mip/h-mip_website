@@ -1,0 +1,36 @@
+################################# Service #################################
+participate:
+  enable : true
+  title : Participate
+  content: "You can participate in several ways some of which are in the process of being rolled out over the coming weeks and months. Choose one or more of these options."
+  service_item :
+    # service item loop
+    - name : "[Mosquito Alert](http://www.mosquitoalert.com/)"
+      icon : "fas fa-people-arrows"
+      url: http://www.mosquitoalert.com
+      content : "Start participating by downloading the Mosquito Alert app. Report mosquitoes and their breeding sites when you find them. Mark where you have been bitten. Learn about mosquitoes and more."
+      
+    # service item loop
+    - name : Talk to us
+      icon : "fas fa-comments"
+      content : "Talk to us about your experiences with mosquitoes. We will soon be recruiting volunteers for semi-structured interviews, which could be in person or by phone or video conference. Coming soon."
+      
+    # service item loop
+    - name : "Show us"
+      icon : "fas fa-walking"
+      content : "Let us accompany you during your usual routines to observe mosquito interactions. We will be recruiting volunteers once the Covid-19 situation allows for this to be done safely. Coming soon."
+      
+    # service item loop
+    - name : Share mosquitoes
+      icon : "fas fa-binoculars" # themify icon pack : https://themify.me/themify-icons
+      content : "Let us hunt mosquitoes in or around your home, garden or other places where you spend time. We will be recruiting volunteers once the Covid-19 situation allows for this to be done safely. Coming soon."
+      
+    # service item loop
+    - name : Share tracks
+      icon : "fas fa-mobile-alt"
+      content : "Share your mobility patterns using a privacy-focused app. We will soon be releasing a new version of Space Mapper, which uses end-to-end encryption and lets you control what you share."
+      
+    # service item loop
+    - name : Share DNA
+      icon : "fas fa-dna"
+      content : "Spit into a tube so that we can analyze your DNA and see which mosquitoes have bitten you. We will be recruiting volunteers once the Covid-19 situation allows for this to be done safely. Coming soon."

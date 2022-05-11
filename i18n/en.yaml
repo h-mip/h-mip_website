@@ -14,6 +14,10 @@
   translation: All
 - id: about
   translation: About
+- id: participate
+  translation: Participate
+- id: explore
+  translation: Explore
 - id: services
   translation: Service
 - id: portfolio

@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta2:
+  enable : true
+  bg_image : "images/backgrounds/ovitrap.jpg"
+  bg_image_webp : "images/backgrounds/ovitrap.webp"
+  title : ""
+  content : ""
+  button:
+    enable : false
+    label : "Start a project with us"
+    link : "#contact"

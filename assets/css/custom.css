@@ -1,0 +1,81 @@
+.hero-area .block h1 {
+  font-size: 70px;
+  color: #fff;
+  text-transform: capitalize;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.hero-area .block p {
+  color: #fff;
+  font-size: 20px;
+  width: 70%;
+  margin: 0 auto;
+}
+
+
+@media (max-width: 1150px) {
+  .hero-area .block h1 {
+    font-size: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-area .block h1 {
+    font-size: 50px;
+  }
+  .hero-area .block p {
+  font-size: 14px;
+}
+  p {
+    font-size: 12px;
+  }
+  .title h2 {
+    font-size: 30px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  h3{
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-area .block h1 {
+    font-size: 40px;
+  }
+  .hero-area .block p {
+    font-size: 14px;
+  }
+  p {
+  font-size: 10px;
+  }
+  .title h2 {
+    font-size: 25px;
+  }
+  h2 {
+    font-size: 25px;
+  }
+  h3{
+    font-size: 1.1rem;
+  }
+}
+
+.title p {
+  color: #737f8a;
+}
+
+.copyright p {
+  color: #737f8a;
+}
+
+.copyright a {
+  color: #737f8a;
+}
+
+code {
+  white-space : pre-wrap !important;
+}
+
+

@@ -3,14 +3,14 @@ about:
   enable : true
   title : About
   about_item :
-  - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-    title : Mobile Positioning
-    content : We're using cell phone positioning to understand mobility patterns that bring people into contact with mosquitoes.
-
-  - icon : ti-ruler # themify icon pack : https://themify.me/themify-icons
+  - icon : "fas fa-dna" # themify icon pack : https://themify.me/themify-icons
     title : DNA Analysis
-    content : We're analyzing the human DNA found in mosquitoes to learn how many different people each mosquito bites.
+    content : We're analyzing DNA to see how many different people each mosquito bites.
 
-  - icon : ti-hand-open # themify icon pack : https://themify.me/themify-icons
+  - icon : "fas fa-people-arrows" # themify icon pack : https://themify.me/themify-icons
     title : Citizen Science
-    content : Citizen scientists all over the world are reporting mosquitoes and mosquito bites to create a huge map of human-mosquito interaction.
+    content : Citizen scientists are reporting where they find mosquitoes and where they get bitten.
+
+  - icon : "fas fa-mobile-alt" # themify icon pack : https://themify.me/themify-icons
+    title : Mobile Positioning
+    content : Volunteers are sharing GPS data to see how mobility shapes mosquito interactions.
