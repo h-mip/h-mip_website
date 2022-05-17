@@ -40,4 +40,4 @@ participate:
     - name : "[Share DNA](participate#share_dna)"
       icon : "fas fa-dna"
       url: participate#share_dna
-      content : "Spit into a tube to which mosquitoes have bitten you."
+      content : "Spit into a tube to see which mosquitoes have bitten you."
