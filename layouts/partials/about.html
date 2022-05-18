@@ -36,9 +36,9 @@
 			<div class="col-lg-6 d-flex justify-content-center text-center wow fadeInUp" data-wow-duration="500ms">
 				<div class="block" style="background-color: #000000">
 					<div class="content text-center">
-						<h3>Funded by the European Research Council</h3>
-						<p>ERC-2019-STG - ERC Starting Grant<br>1 April 2020 - 31 March 2025<br>Overall budget: €1,960,828</p>
-						<img src="images/logos_erc.jpg" class="img-fluid" alt="ERC logo">
+						<h3>{{ .funding_title }}</h3>
+						<p>{{ .funding_detail }}<br>{{ .funding_dates }}<br>{{ .funding_budget }}</p>
+						<img src="{{ .funding_image | absURL }}" class="img-fluid" alt="ERC logo">
 
 					</div>
 				</div>
@@ -46,11 +46,11 @@
 			<div class="col-lg-6 d-flex justify-content-center text-center wow fadeInUp" data-wow-duration="500ms">
 				<div class="block" style="background-color: #000000">
 					<div class="content text-center">
-						<h3>Implemented by<br>UPF and CEAB-CSIC</h3>
+						<h3>{{ .implementation_title }}<br>{{ .implementation_detail }}</h3>
 						<p>
 
-						<img src="images/upf_marca_blanca.png" class="img-fluid" alt="UPF logo">
-						<img src="images/ceab-csic-fusionat.png" class="img-fluid" alt="CEAB logo">
+						<img src="{{ .implementation_image1 | absURL }}" class="img-fluid" alt="UPF logo">
+						<img src="{{ .implementation_image2 | absURL }}" class="img-fluid" alt="CEAB logo">
 
 					</div>
 				</div>

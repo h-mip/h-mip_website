@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta3:
+  enable : true
+  bg_image : "images/backgrounds/mosquitos_micro.jpg"
+  bg_image_webp : "images/backgrounds/mosquitos_micro.webp"
+  title : ""
+  content : ""
+  button:
+    enable : false
+    label : "Start a project with us"
+    link : "#contact"

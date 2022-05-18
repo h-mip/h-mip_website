@@ -1,0 +1,43 @@
+################################# Service #################################
+participate:
+  enable : true
+  title : Participa
+  content: "Pots participar de diverses maneres, algunes de les quals estan en procés de llançament durant les properes setmanes i mesos. Tria una o més d'aquestes opcions."
+  main_button_url: participate
+  main_button_text: "Aprèn més"
+  service_item :
+    # service item loop
+    - name : "[Mosquito Alert](http://www.mosquitoalert.com/)"
+      icon : "fas fa-people-arrows"
+      url: http://www.mosquitoalert.com
+      content : "Informa els mosquits mitjançant l'aplicació Mosquito Alert."
+      
+    # service item loop
+    - name : "[Parlem](participate#talk)"
+      icon : "fas fa-comments"
+      url: participate#talk
+      content : "Parla'ns de les teves experiències amb els mosquits."
+      
+    # service item loop
+    - name : "[Ensenya'ns](participate#show)"
+      icon : "fas fa-walking"
+      url: participate#show
+      content : "Deixa'ns acompanyar-te durant les teves rutines habituals."
+      
+    # service item loop
+    - name : "[Envia mosquits](participate#share_mosquitoes)"
+      icon : "fas fa-binoculars" # themify icon pack : https://themify.me/themify-icons
+      url: participate#share_mosquitoes
+      content : "Deixa'ns caçar mosquits als llocs on passes el temps o als voltants."
+      
+    # service item loop
+    - name : "[Comparteix pistes](participate#share_tracks)"
+      icon : "fas fa-mobile-alt"
+      url: participate#share_tracks
+      content : "Comparteix patrons de mobilitat amb una aplicació."
+      
+    # service item loop
+    - name : "[Comparteix ADN](participate#share_dna)"
+      icon : "fas fa-dna"
+      url: participate#share_dna
+      content : "Escup en un tub per veure quins mosquits t'han picat."

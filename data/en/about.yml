@@ -2,6 +2,16 @@
 about:
   enable : true
   title : About
+  funding_title: "Funded by the European Research Council"
+  funding_detail: "ERC-2019-STG - ERC Starting Grant"
+  funding_dates: "1 April 2020 - 31 March 2025"
+  funding_budget: "Overall budget: €1,960,828"
+  funding_image: "images/logos_erc.jpg"
+  implementation_title: "Implemented by"
+  implementation_detail: "UPF and CEAB-CSIC"
+  implementation_image1: "images/upf_marca_blanca.png"
+  implementation_image2: "images/ceab-csic-fusionat.png"  
+  funding_disclaimer: "This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 853271). The content of this website represents the views of the author only and is his sole responsibility. The European Commission does not accept any responsibility for the use that may be made of the information it contains."    
   about_item :
   - icon : "fas fa-dna" # themify icon pack : https://themify.me/themify-icons
     title : DNA Analysis

@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/table_mosquitoes.png"
+  bg_image_webp : "images/backgrounds/table_mosquitoes.webp"
+  title : ""
+  content : ""
+  button:
+    enable : false
+    label : "Start a project with us"
+    link : "#contact"

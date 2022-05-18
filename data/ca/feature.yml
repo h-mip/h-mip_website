@@ -1,0 +1,28 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/mosquito.png
+  image_webp : images/about/mosquito.webp
+  title : Coneixements claus
+  content : "El projecte es basa en diversos coneixements clau: (1) els mosquits són una excel·lent font d'informació sobre les persones que mosseguen; (2) les persones són una excel·lent font d'informació sobre els mosquits que les piquen; (3) el posicionament dels telèfons mòbils pot proporcionar nova informació sobre les xarxes de picada de mosquits humans; i (4) afegir una perspectiva de ciències socials a l'ecologia de les malalties és crucial per abordar el problema de les malalties transmeses pels mosquits."
+  feature_item : 
+      # feature item loop
+    - title : Els mosquits ens poden parlar de les persones
+      icon : "fas fa-dna" # themify icon pack : https://themify.me/themify-icons
+      content : Com que porten la nostra sang, podem veure quantes persones ha picat un mosquit. Això ens permet millorar els models de malaltia.
+      
+      # feature item loop
+    - title : La gent ens pot parlar dels mosquits
+      icon : "fas fa-people-arrows" # themify icon pack : https://themify.me/themify-icons
+      content : A la gent li agrada queixar-se dels mosquits. Escoltem i aprofitem la seva energia a través de la ciència ciutadana.
+
+      # feature item loop
+    - title : Els telèfons mòbils ens poden parlar de les xarxes de mossegada
+      icon : "fas fa-mobile-alt" # themify icon pack : https://themify.me/themify-icons
+      content : Amb una aplicació centrada en la privadesa, permetem que les persones comparteixin informació sobre com es mouen entre les poblacions de mosquits. 
+      
+            # feature item loop
+    - title : Les ciències socials enforteixen l'ecologia
+      icon : "fas fa-poll" # themify icon pack : https://themify.me/themify-icons
+      content : El nostre enfocament interdisciplinari il·lumina el context socioecològic de les malalties transmeses per mosquits.
+      

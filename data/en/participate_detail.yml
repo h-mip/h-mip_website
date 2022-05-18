@@ -11,14 +11,14 @@ participate_detail:
       icon : "fas fa-people-arrows"
       content : "Start participating by downloading the Mosquito Alert app. Report mosquitoes and their breeding sites when you find them. Mark where you have been bitten. Learn about mosquitoes and more."
       button : true
-      button_text : "Go to Mosquito Alert Now"
+      button_text : "Go to Mosquito Alert now"
       button_url: http://www.mosquitoalert.com
       
     # service item loop
     - name : "Talk to us"
       id: talk
       icon : "fas fa-comments"
-      content : "Talk to us about your experiences with mosquitoes. We are recruiting volunteers for semi-structured interviews, which could be in person or by phone or video conference. We can keep the interview very short if you are pressed for time, or make it longer if you want to talk more. We are particularly interested in learning where and when you tend to be bitten by mosquitoes and how often. If you want to participate in just a very short interview, download the information sheet below and come talk to us."
+      content : "Talk to us about your experiences with mosquitoes. We are recruiting volunteers for interviews, which could be in person or by phone or video conference. We can keep the interview very short if you are pressed for time, or make it longer if you want to talk more. We are particularly interested in learning where and when you tend to be bitten by mosquitoes and how often. If you want to participate in just a very short interview, download the information sheet below and come talk to us."
       button : true
       button_text : "Download the information sheet for short interviews"
       button_url: ../docs/info_short_interviews_en.pdf
