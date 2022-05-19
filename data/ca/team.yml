@@ -78,7 +78,7 @@ team:
       designation : "Postdoc"
       content : Investigador postdoctoral, UPF
       social :
-        - icon : "fab fa-world"
+        - icon : ti-world
           link : "https://www.upf.edu/web/demosoc/entry/-/-/161865/adscripcion/alexander-richter"
         - icon : "fab fa-google"
           link : "https://scholar.google.es/citations?user=VNJRYiAAAAAJ&hl=en"
