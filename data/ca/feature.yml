@@ -17,7 +17,7 @@ feature:
       content : A la gent li agrada queixar-se dels mosquits. Escoltem i aprofitem aquesta energia per generar coneixement a través de la ciència ciutadana.
 
       # feature item loop
-    - title :Els telèfons mòbils ens informen de les xarxes de picades
+    - title : Els telèfons mòbils ens informen de les xarxes de picades
       icon : "fas fa-mobile-alt" # themify icon pack : https://themify.me/themify-icons
       content : Amb una aplicació centrada en la privadesa de les dades, permetem que les persones comparteixin informació sobre com es mouen entre localitats i, per tant, diferents poblacions de mosquits. 
       
