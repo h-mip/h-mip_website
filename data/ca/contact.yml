@@ -2,8 +2,8 @@
 contact:
   enable : true
   title : Contacta
-  subtitle : Detalls de contacte
-  content : Per a preguntes sobre el projecte, poseu-vos en contacte amb John Palmer del Grup de Recerca Sociodemogràfica, Departament de Ciències Polítiques i Socials, Universitat Pompeu Fabra.
+  subtitle : Dades de contacte
+  content : Per a preguntes sobre el projecte, poseu-vos en contacte amb en John Palmer investigador del Grup de Recerca Sociodemogràfica, del Departament de Ciències Polítiques i Socials, Universitat Pompeu Fabra.
 
   # Contact details
   contact_list:
