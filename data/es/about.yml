@@ -1,0 +1,26 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Sobre
+  funding_title: "Finançat pel Consell Europeu de Recerca"
+  funding_detail: "ERC-2019-STG - ERC Starting Grant"
+  funding_dates: "1 d'abril de 2020 - 31 de març de 2025"
+  funding_budget: "Pressupost global: €1,960,828"
+  funding_image: "images/logos_erc.jpg"
+  implementation_title: "Implementat per"
+  implementation_detail: "UPF i CEAB-CSIC"
+  implementation_image1: "images/upf_marca_blanca.png"
+  implementation_image2: "images/ceab-csic-fusionat.png"  
+  funding_disclaimer: "Aquest projecte ha rebut finançament del Consell Europeu de Recerca (ERC) en el marc del programa de recerca i innovació Horizon 2020 de la Unió Europea (acord de subvenció núm. 853271). El contingut d'aquesta web només representa les opinions de l'autor i és la seva única responsabilitat. La Comissió Europea no assumeix cap responsabilitat per l'ús que es pugui fer de la informació que conté."    
+  about_item :
+  - icon : "fas fa-dna" # themify icon pack : https://themify.me/themify-icons
+    title : Anàlisi d'ADN
+    content : Estem analitzant l'ADN per saber a quantes persones diferents pica cada mosquit.
+
+  - icon : "fas fa-people-arrows" # themify icon pack : https://themify.me/themify-icons
+    title : Ciència Ciutadana
+    content : Els científics ciutadans poden informar d'on troben els mosquits i on els piquen.
+
+  - icon : "fas fa-mobile-alt" # themify icon pack : https://themify.me/themify-icons
+    title : Localització mòbil
+    content : Els voluntaris poden compartint dades del GPS per analitzar com la mobilitat condiciona les interaccions amb els mosquits.

@@ -1,0 +1,142 @@
+############################### team ############################
+team:
+  enable : true
+  title : Team
+  team_member :
+    # team member loop
+    - name : "John Palmer"
+      image_webp : images/team/jp.webp
+      image : images/team/jp.JPG
+      designation : "Coordinador/investigador principal"
+      content : "Professor Agregat Interí, UPF"
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "http://johnrbpalmer.com/"
+        - icon : "fab fa-google" 
+          link : "https://scholar.google.com/citations?user=CF8i5n8AAAAJ&hl=en"
+        - icon : "fab fa-orcid"
+          link : "https://orcid.org/0000-0002-2648-7860"
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "https://github.com/JohnPalmer"
+        
+    # team member loop
+    - name : Frederic Bartumeus
+      image_webp : images/team/fb.webp
+      image : images/team/fb.jpg
+      designation : Investigador principal
+      content : "Professor d'investigació ICREA, CEAB-CSIC"
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "http://www.theelab.net/team/frederic-bartumeus/"
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.icrea.cat/Web/ScientificStaff/frederic-bartumeus-572"
+        - icon : "fab fa-researchgate"
+          link : "https://www.researchgate.net/profile/Frederic_Bartumeus"
+        
+    # team member loop
+    - name : Marc Ventura
+      image_webp : images/team/mv.webp
+      image : images/team/mv.jpg
+      designation : Investigador principal
+      content : "Científic Titular, CEAB-CSIC"
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "http://www.ceab.csic.es/personal/marc-ventura-oller/"
+        - icon : "fab fa-google"
+          link : "https://scholar.google.es/citations?user=LD0KeSMAAAAJ&hl=en"
+        - icon : "fab fa-researchgate"
+          link : "https://www.researchgate.net/profile/Marc_Ventura"
+        
+    # team member loop
+    - name : Isis Sanpera
+      image_webp : images/team/is.webp
+      image : images/team/is.jpg
+      designation : Postdoc
+      content : "Investigador postdoctoral, UPF"
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/isissanperacalbet"
+        - icon : "fab fa-orcid"
+          link : "https://orcid.org/0000-0001-7004-4293"
+
+    - name : "Federica Lucati"
+      image_webp : images/team/fl.webp
+      image : images/team/fl.jpg
+      designation : "Postdoc"
+      content : Investigador postdoctoral, UPF
+      social :
+        - icon : "fab fa-researchgate"
+          link : "https://www.researchgate.net/profile/Federica_Lucati"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/FedericaLucati"
+        - icon : "fab fa-orcid"
+          link : "https://orcid.org/0000-0001-9925-7137"
+        
+    - name : "Alex Richter-Boix"
+      image_webp : images/team/ar.webp
+      image : images/team/ar.jpg
+      designation : "Postdoc"
+      content : Investigador postdoctoral, UPF
+      social :
+        - icon : ti-world
+          link : "https://www.upf.edu/web/demosoc/entry/-/-/161865/adscripcion/alexander-richter"
+        - icon : "fab fa-google"
+          link : "https://scholar.google.es/citations?user=VNJRYiAAAAAJ&hl=en"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/BoixRichter"
+
+    # team member loop
+    - name : Berj Dekramanjian
+      image_webp : images/team/bd.webp
+      image : images/team/bd.jpg
+      designation : Estudiant de Doctorat
+      content : Estudiant de Doctorat, UPF
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/berj/"
+    #     - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+        
+    # team member loop
+    - name : Ramona Ottow
+      image_webp : images/team/ro.webp
+      image : images/team/ro.jpg
+      designation : Estudiant de Doctorat
+      content : Estudiant de Doctorat, UPF
+    #   social :
+    #     - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+    #     - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+    #     - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+    #     - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+        
+    # # team member loop
+    # - name : Karl Broome
+    #   image_webp : images/team/is.webp
+    #   image : images/team/is.jpg
+    #   designation : Ph.D. Student
+    #   content : Ph.D. student, UPF
+    #   social :
+    #     - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+    #     - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+    #     - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+    #     - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+
+    # team member loop
+    - name : Jenny Caner
+      image_webp : images/team/jc.webp
+      image : images/team/jc.jpg
+      designation : Tècnic de recerca
+      content : "Tècnic de recerca, CEAB-CSIC" 
+      social :
+        - icon : "fab fa-researchgate"
+          link : "https://www.researchgate.net/profile/Jenny_Caner"
+    #     - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"

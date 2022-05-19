@@ -1,0 +1,28 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/mosquito.png
+  image_webp : images/about/mosquito.webp
+  title : Coneixements claus
+  content : "El projecte es basa en els següents conceptes clau: (1) els mosquits són una excel·lent font d'informació de les persones a les quals piquen; (2) les persones són una excel·lent font d'informació sobre els mosquits que els piquen; (3) el posicionament dels telèfons mòbils pot proporcionar nova informació sobre les xarxes d'interacció mosquits-humà; i (4) afegir una perspectiva des de les ciències socials a l'ecologia de les malalties és crucial per abordar el problema de les malalties transmeses pels mosquits."
+  feature_item : 
+      # feature item loop
+    - title : Els mosquits ens poden parlar de les persones
+      icon : "fas fa-dna" # themify icon pack : https://themify.me/themify-icons
+      content : Com que porten la nostra sang, el seu estudi permet veure a quantes persones a picat un mosquit. Aquest coneixement ens permetrà millorar els models epidemiològics.
+      
+      # feature item loop
+    - title : La gent ens pot parlar dels mosquits
+      icon : "fas fa-people-arrows" # themify icon pack : https://themify.me/themify-icons
+      content : A la gent li agrada queixar-se dels mosquits. Escoltem i aprofitem aquesta energia per generar coneixement a través de la ciència ciutadana.
+
+      # feature item loop
+    - title : Els telèfons mòbils ens informen de les xarxes de picades
+      icon : "fas fa-mobile-alt" # themify icon pack : https://themify.me/themify-icons
+      content : Amb una aplicació centrada en la privadesa de les dades, permetem que les persones comparteixin informació sobre com es mouen entre localitats i, per tant, diferents poblacions de mosquits. 
+      
+            # feature item loop
+    - title : Les ciències socials enforteixen l'ecologia
+      icon : "fas fa-poll" # themify icon pack : https://themify.me/themify-icons
+      content : El nostre enfocament interdisciplinari il·lumina el context socioecològic de les malalties transmeses per mosquits.
+      
