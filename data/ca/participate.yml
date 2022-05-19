@@ -52,7 +52,7 @@ participate:
       icon : "fas fa-people-arrows"
       image: images/participate/malert.png
       image_webp: images/participate/malert.webp
-      content : "Comença a participar baixant l'aplicació Mosquito Alert. Avisa dels mosquits que vegis i els seus llocs de cria, marca on t'han picat, i obté informació sobre els mosquits.
+      content : "Comença a participar baixant l'aplicació Mosquito Alert. Avisa dels mosquits que vegis i els seus llocs de cria, marca on t'han picat, i obté informació sobre els mosquits."
       button : true
       button_text : "Participa amb Mosquito Alert"
       button_url: http://www.mosquitoalert.com
@@ -78,7 +78,7 @@ participate:
       content : "Deixa'ns acompanyar-te durant les teves rutines habituals per detectar on i el tipus d'interaccions que tens amb els mosquits. Aviat reclutarem voluntaris."
       
     # service item loop
-    - name : Captura mosquits
+    - name : "Captura mosquits"
       id: share_mosquitoes
       icon : "fas fa-binoculars" # themify icon pack : https://themify.me/themify-icons
       image: images/participate/mosquits.jpg
@@ -86,7 +86,7 @@ participate:
       content : "Deixa'ns capturar mosquits a casa teva, jardí o altres llocs on passes el temps i voltants. Aviat reclutarem voluntaris."
       
     # service item loop
-    - name : Comparteix la teva mobilitat
+    - name : "Comparteix la teva mobilitat"
       id: share_tracks
       icon : "fas fa-mobile-alt"
       image: images/participate/tracks.png
@@ -97,7 +97,7 @@ participate:
       button_text: "Més informació sobre Space Mapper"
       
     # service item loop
-    - name : Comparteix ADN
+    - name : "Comparteix ADN"
       id: share_dna
       icon : "fas fa-dna"
       image: images/participate/dna.png
