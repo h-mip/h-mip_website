@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta4:
+  enable : true
+  bg_image : "images/backgrounds/bg-germanetes.jpg"
+  bg_image_webp : "images/backgrounds/bg-germanetes.webp"
+  title : ""
+  content : ""
+  button:
+    enable : false
+    label : "Start a project with us"
+    link : "#contact"

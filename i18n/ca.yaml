@@ -1,21 +1,21 @@
 - id: blogTitle
-  translation: Latest Post
+  translation: Últimes notícies
 - id: readMore
-  translation: Read more
+  translation: Llegeix més
 - id: viewAllPost
-  translation: View All Post
+  translation: Veure totes les publicacions
 - id: share
-  translation: Share
+  translation: Compartir
 - id: aboutAuthor
-  translation: About author
+  translation: Sobre l'autor
 - id: authorsPosts
-  translation: Author's posts
+  translation: Publicacions
 - id: all
-  translation: All
+  translation: Tots
 - id: about
-  translation: About
+  translation: Sobre
 - id: participate
-  translation: Participate
+  translation: Participa
 - id: explore
   translation: Explore
 - id: services

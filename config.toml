@@ -9,7 +9,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = ["fr"]
+disableLanguages = ["fr", "es"]
 
 ############################# Plugins ##########################
 # css plugins
@@ -72,10 +72,10 @@ weight = 4
 # URL = "pricing"
 # weight = 5
 
-# [[menu.main]]
-# name = "blog"
-# URL = "blog"
-# weight = 6
+[[menu.main]]
+name = "blog"
+URL = "blog"
+weight = 6
 
 [[menu.main]]
 name = "contact"
@@ -145,7 +145,7 @@ copyright = "This website is built and maintained by [John Palmer](http://johnrb
 [Languages.ca]
 languageName = "Ca"
 languageCode = "ca-es"
-contentDir = "content/english"
+contentDir = "content/catalan"
 weight = 1
 home = "Home"
 copyright = "This website is built and maintained by [John Palmer](http://johnrbpalmer.com) using [Hugo](https://gohugo.io/) and the [Meghna Hugo Theme](https://themes.gohugo.io/meghna-hugo/) by [Themefisher](https://themefisher.com/). The Human-Mosquito Interaction Project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 853271). The content of this website represents the views of the author only and is his sole responsibility. The European Commission does not accept any responsibility for the use that may be made of the information it contains."
