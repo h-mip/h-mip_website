@@ -13,8 +13,6 @@
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
 
-			<h3>Coming Soon</h3>
-
 			{{ range first 3 (where site.RegularPages "Section" "==" "blog")}}
 			{{ .Render "article"}}
 			{{ end }}
