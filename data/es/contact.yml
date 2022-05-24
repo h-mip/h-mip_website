@@ -2,27 +2,27 @@
 contact:
   enable : true
   title : Contacta
-  subtitle : Dades de contacte
-  content : Per a preguntes sobre el projecte, poseu-vos en contacte amb en John Palmer investigador del Grup de Recerca Sociodemogràfica, del Departament de Ciències Polítiques i Socials, Universitat Pompeu Fabra.
+  subtitle : Datos de contacto
+  content : Para preguntas sobre el proyecto, poneos en contacto con en John Palmer investigador del Grupo de Investigación Sociodemográfica, del Departamento de Ciencias Políticas y Sociales, Universitat Pompeu Fabra.
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Ramon Trias Fargas, 25-27, 08005 Barcelona, Espanya"
+      info : "Ramon Trias Fargas, 25-27, 08005 Barcelona, España"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Telèfon: +34-93-542-2346"
+      info : "Telefono: +34-93-542-2346"
             
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Correu electrònic: john.palmer@upf.edu"
+      info : "Correo electrónico: john.palmer@upf.edu"
 
 
   # Contact form
   contact_form:
     enable : false
     form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    name : "Nombre"
+    email : "Email"
+    subject : "Asunto"
+    message : "Mensaje"
+    submit : "Envía"
