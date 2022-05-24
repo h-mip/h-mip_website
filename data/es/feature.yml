@@ -3,26 +3,26 @@ feature:
   enable : true
   image : images/about/mosquito.png
   image_webp : images/about/mosquito.webp
-  title : Coneixements claus
-  content : "El projecte es basa en els següents conceptes clau: (1) els mosquits són una excel·lent font d'informació de les persones a les quals piquen; (2) les persones són una excel·lent font d'informació sobre els mosquits que els piquen; (3) el posicionament dels telèfons mòbils pot proporcionar nova informació sobre les xarxes d'interacció mosquits-humà; i (4) afegir una perspectiva des de les ciències socials a l'ecologia de les malalties és crucial per abordar el problema de les malalties transmeses pels mosquits."
+  title : Conocimientos claves
+  content : "El proyecto se basa en los siguientes conceptos clave: (1) los mosquitos son una excelente fuente de información de las personas a las que pican; (2) las personas son una excelente fuente de información sobre los mosquitos que los pican; (3) el posicionamiento de los teléfonos móviles puede proporcionar nueva información sobre las redes de interacción mosquito-humano; y (4) añadir una perspectiva desde las ciencias sociales a la ecología de las enfermedades es crucial para abordar el problema de las enfermedades transmitidas por los mosquitos."
   feature_item : 
       # feature item loop
-    - title : Els mosquits ens poden parlar de les persones
+    - title : Los mosquitos nos pueden hablar de las personas
       icon : "fas fa-dna" # themify icon pack : https://themify.me/themify-icons
-      content : Com que porten la nostra sang, el seu estudi permet veure a quantes persones a picat un mosquit. Aquest coneixement ens permetrà millorar els models epidemiològics.
+      content : Como llevan nuestra sangre, su estudio permite ver a cuántas personas ha picado un mosquito. Este conocimiento nos permitirá mejorar los modelos epidemiológicos.
       
       # feature item loop
-    - title : La gent ens pot parlar dels mosquits
+    - title : La gente nos puede hablar de los mosquitos
       icon : "fas fa-people-arrows" # themify icon pack : https://themify.me/themify-icons
-      content : A la gent li agrada queixar-se dels mosquits. Escoltem i aprofitem aquesta energia per generar coneixement a través de la ciència ciutadana.
+      content : A la gente le gusta quejarse de los mosquitos. Escuchamos y aprovechamos esta energía para generar conocimiento a través de la ciencia ciudadana.
 
       # feature item loop
-    - title : Els telèfons mòbils ens informen de les xarxes de picades
+    - title : Los teléfonos móviles nos informan de las redes de picaduras
       icon : "fas fa-mobile-alt" # themify icon pack : https://themify.me/themify-icons
-      content : Amb una aplicació centrada en la privadesa de les dades, permetem que les persones comparteixin informació sobre com es mouen entre localitats i, per tant, diferents poblacions de mosquits. 
+      content : Con una aplicación centrada en la privacidad de los datos, permitimos que las personas compartan información sobre cómo se mueven entre localidades y, por lo tanto, entre diferentes poblaciones de mosquitos.
       
             # feature item loop
-    - title : Les ciències socials enforteixen l'ecologia
+    - title : Las ciencias sociales fortalecen la ecología
       icon : "fas fa-poll" # themify icon pack : https://themify.me/themify-icons
-      content : El nostre enfocament interdisciplinari il·lumina el context socioecològic de les malalties transmeses per mosquits.
+      content : Nuestro enfoque interdisciplinario ilumina el contexto socioecológico de las enfermedades transmitidas por mosquitos.
       
