@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Human-Mosquito Interaction Project"
-  content : "Xarxes hoste-vector, mobilitat i context socioecològic de les malalties transmeses per mosquits. Un projecte finançat pel Consell Europeu de Recerca i implementat per la Universitat Pompeu Fabra i el Centre d'Estudis Avançats de Blanes."
+  content : "Redes huésped-vector, movilidad y contexto socioecológico de las enfermedades transmitidas por mosquitos. Un proyecto financiado por el Consejo Europeo de Investigación e implementado por la Universitat Pompeu Fabra y el Centro de Estudios Avanzados de Blanes."
   button:
     enable : true
     label : "Explora"
