@@ -44,7 +44,7 @@ participate:
 
   content_detail : "Si tienes 18 años como mínimo, puedes participar en el proyecto avisando de los mosquitos que encuentras a través del sistema de ciencia ciudadana Mosquito Alert, u ofreciéndote voluntario para ser entrevistado u observado, o permitiéndonos inspeccionar tu casa para detectar mosquitos, así como analizar tu ADN para estudiar cuáles de los mosquitos que podemos encontrar en tus espacios te han picado. Para participar con Mosquito Alert, basta con que te bajes la aplicación y comiences a informar de los mosquitos que encuentres. Para otras formas de participación, descarga nuestra hoja informativa y el formulario de consentimiento para elegir qué forma de participación se ajusta mejor a tus posibilidades. Siempre puedes cambiar de opinión y retirarte de una actividad o añadir una nueva."
   main_download_button : "Descarga la hoja informativa y el formulario de consentimiento"
-  main_download_button_url: "../docs/info_consent_full_ca.pdf"
+  main_download_button_url: "../docs/info_consent_full_es.pdf"
   service_item_detail :
     # service item loop
     - name : "Mosquito Alert"
