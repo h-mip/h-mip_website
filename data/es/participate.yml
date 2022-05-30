@@ -66,7 +66,7 @@ participate:
       content : "Háblanos de tus experiencias con los mosquitos. Estamos reclutando voluntarios para realizar entrevistas: pueden ser presenciales, por teléfono o videoconferencia. Si quieres participar pero tienes poco tiempo podemos realizar una entrevista muy corta, o hacerla más larga si dispones de más tiempo. Nos ajustamos a tus necesidades. Estamos especialmente interesados en saber dónde te pican los mosquitos y con qué frecuencia lo hacen. Si sólo quieres participar en una entrevista muy breve, descárgate la hoja informativa y ven a hablar con nosotros."
       button : true
       button_text : "Descarga la hoja informativa para entrevistas breves"
-      button_url: ../docs/info_short_interviews_ca.pdf
+      button_url: ../docs/info_short_interviews_es.pdf
 
       
     # service item loop
